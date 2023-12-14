@@ -5,7 +5,9 @@
         grid-template-areas:
          "section1 section1 section2 section5"
          "section3 section3 section4 section5";
-        box-shadow: 2.5rem 3.75rem 3rem;
+        width: 1110px;
+        height: 572px;
+
         }   
     .logo{
        margin-left: 70%;
@@ -15,8 +17,10 @@
     }
     
     .conteiner1{
+        
         grid-area: section1;
     }
+    
     .conteiner2{
         grid-area: section2;
     }

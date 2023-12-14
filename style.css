@@ -1,3 +1,8 @@
+body {
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+}
 .conteiner{
     display: grid;
     height: 100vh;
