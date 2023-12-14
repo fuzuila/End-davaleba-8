@@ -37,14 +37,8 @@
         grid-column-start: 4;
        grid-row: 1 / span 2;
     }
-    .text2{
-        line-height: 20px;
-    }
     .text3{
         margin-top: -2.2rem;
     }
-   .text4{
-    margin-top: 1rem;
-    line-height: 22px;
- }
+  
 }
