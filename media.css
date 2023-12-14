@@ -1,0 +1,46 @@
+@media (min-width: 1110px) {
+    .conteiner{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-template-areas:
+         "section1 section1 section2 section5"
+         "section3 section3 section4 section5";
+        box-shadow: 2.5rem 3.75rem 3rem;
+        }   
+    .logo{
+       margin-left: 70%;
+    }   
+    .box{
+    grid-column: span 2;
+    }
+    
+    .conteiner1{
+        grid-area: section1;
+    }
+    .conteiner2{
+        grid-area: section2;
+    }
+    .conteiner3{
+        grid-area: section3;
+    }
+    .conteiner4{
+        grid-area: section4;
+    }
+    .conteiner5{
+        grid-area: section5;
+    }
+    .boxin{
+        grid-column-start: 4;
+       grid-row: 1 / span 2;
+    }
+    .text2{
+        line-height: 20px;
+    }
+    .text3{
+        margin-top: -2.2rem;
+    }
+   .text4{
+    margin-top: 1rem;
+    line-height: 22px;
+ }
+}

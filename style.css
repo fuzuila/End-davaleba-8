@@ -1,0 +1,82 @@
+.conteiner{
+    display: grid;
+    height: 100vh;
+    margin-inline: auto;
+    gap: 1.5rem;
+}
+.section1{
+    background-color: blueviolet;
+    border-radius: 1.5rem;
+}
+.foto{
+    margin: 27px;
+}
+.logo{
+    margin-left: 60%;
+    margin-top: -150px;
+}
+.text{
+     margin-left: 27px;
+    margin-top: -30px;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 600;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text1{
+    margin-left: 28px;
+   margin-top: -15px;
+   font-size: 20px;
+   line-height: 24px;
+   font-weight: 600;
+   color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section2{
+    
+    background: rgba(72, 85, 106, 1);
+    border-radius: 1.5rem;
+}
+.section3{
+    
+    background: rgb(240, 236, 236);
+    border-radius: 1.5rem;
+    
+}
+.text2{
+    margin-bottom: -50px;
+    margin: 28px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+    color: #c7c1c1;
+}
+.text3{
+    padding: 25px 15px 10px 25px;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 600;
+    color: rgb(31, 29, 29);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section4{ 
+   
+    background: rgba(25, 32, 45, 1);
+    border-radius: 1.5rem;
+}
+.section5{
+    
+    background: rgb(236, 233, 233);
+    border-radius: 1.5rem;
+}
+.text4{
+   
+    margin: 25px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+    color: #313030;
+}
+
